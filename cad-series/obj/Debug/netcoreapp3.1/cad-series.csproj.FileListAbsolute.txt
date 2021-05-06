@@ -1,0 +1,13 @@
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.exe
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.deps.json
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.runtimeconfig.json
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.runtimeconfig.dev.json
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.dll
+C:\workspace\series\cad-series\bin\Debug\netcoreapp3.1\cad-series.pdb
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.csprojAssemblyReference.cache
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.AssemblyInfoInputs.cache
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.AssemblyInfo.cs
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.csproj.CoreCompileInputs.cache
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.dll
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.pdb
+C:\workspace\series\cad-series\obj\Debug\netcoreapp3.1\cad-series.genruntimeconfig.cache
